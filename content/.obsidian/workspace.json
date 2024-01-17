@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "7b75277aaf3897d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf99d1ce5952a1cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "436b114cbfd7229b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cddf1b777f8c513e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6436c4b3da1b5fb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8976a45f28c474c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "423ac9e815e05acd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "672b199aefa1f09c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fcff7678f7a26039",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7967defa66bd8c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecba573c744746c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9a48cab95efc40f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0043b5c375234ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8a41dbff821b7598",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "8976a45f28c474c5",
+  "lastOpenFiles": [
+    "001 Assets/digital-garden_web.webp",
+    "001 Assets/Pasted image 20240115155341.png",
+    "001 Assets/Radek Osmulski - Meta learning_ How To Learn Deep Learning And Thrive In The Digital World-Radek Osmulski (2021).pdf",
+    "001 Assets/Pasted image 20240115155331.png",
+    "001 Assets/Captura desde 2024-01-15 15-53-40-modified.png",
+    "001 Assets/Captura desde 2024-01-15 15-53-40-modified 2.png",
+    "001 Assets/Captura desde 2024-01-15 15-53-40-modified 1.png",
+    "001 Assets",
+    "000 Templates/plantilla-quartz.md",
+    "index.md"
+  ]
+}
